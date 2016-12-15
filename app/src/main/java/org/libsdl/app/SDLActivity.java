@@ -65,6 +65,10 @@ import com.beloko.touchcontrols.TouchControlsSettings;
 public class SDLActivity extends Activity {
 	private static final String TAG = "SDL";
 
+
+
+	
+
 	// Keep track of the paused state
 	public static boolean mIsPaused, mIsSurfaceReady, mHasFocus;
 	public static boolean mExitCalledFromJava;
